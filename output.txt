@@ -3,11 +3,6 @@
 Candidate is jerk, alleges rival -- 338647 views
 Bears love berries, alleges bear -- 253801 views
 Bad things gone, say good people -- 170098 views
-Goats eat Google's lawn -- 84906 views
-Trouble for troubled troublemakers -- 84810 views
-Balloon goons doomed -- 84557 views
-There are a lot of bears -- 84504 views
-Media obsessed with bears -- 84383 views
 
 2. Who are the most popular article authors of all time?
 
@@ -19,33 +14,3 @@ Markoff Chaney -- 84557 views
 3. On which days did more than 1% of requests lead to errors?
 
 July 17, 2016 -- 2.26% errors
-July 19, 2016 -- 0.78% errors
-July 24, 2016 -- 0.78% errors
-July 06, 2016 -- 0.77% errors
-July 05, 2016 -- 0.77% errors
-July 08, 2016 -- 0.76% errors
-July 21, 2016 -- 0.76% errors
-July 11, 2016 -- 0.74% errors
-July 22, 2016 -- 0.74% errors
-July 09, 2016 -- 0.74% errors
-July 15, 2016 -- 0.74% errors
-July 03, 2016 -- 0.73% errors
-July 26, 2016 -- 0.73% errors
-July 31, 2016 -- 0.72% errors
-July 25, 2016 -- 0.72% errors
-July 28, 2016 -- 0.72% errors
-July 30, 2016 -- 0.72% errors
-July 01, 2016 -- 0.71% errors
-July 20, 2016 -- 0.70% errors
-July 29, 2016 -- 0.70% errors
-July 02, 2016 -- 0.70% errors
-July 13, 2016 -- 0.69% errors
-July 14, 2016 -- 0.69% errors
-July 04, 2016 -- 0.69% errors
-July 16, 2016 -- 0.69% errors
-July 12, 2016 -- 0.68% errors
-July 23, 2016 -- 0.68% errors
-July 10, 2016 -- 0.68% errors
-July 27, 2016 -- 0.67% errors
-July 18, 2016 -- 0.67% errors
-July 07, 2016 -- 0.66% errors
